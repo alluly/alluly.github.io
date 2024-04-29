@@ -7,21 +7,21 @@ Thank you for visiting this website. I am a final year PhD candidate at Duke Uni
 
 ## 2024
 
-**Base Models for Parabolic Partial Differential Equations**
-Xingzi Xu\*, Ali Hasan\*, Jie Ding, Vahid Tarokh
-*Conference on Uncertainty in Artificial Intelligence (UAI)*, 2024
+**Base Models for Parabolic Partial Differential Equations**  
+Xingzi Xu\*, Ali Hasan\*, Jie Ding, Vahid Tarokh  
+*Conference on Uncertainty in Artificial Intelligence (UAI)*, 2024  
 
-**Neural McKean-Vlasov Processes: Distributional Dependence in Diffusion Models**
-Haoming Yang\*, Ali Hasan\*, Yuting Ng, Vahid Tarokh
-*International Conference on Artificial Intelligence and Statistics (AISTATS)*, 2024
-[[pdf]](https://arxiv.org/abs/2404.09402)
+**Neural McKean-Vlasov Processes: Distributional Dependence in Diffusion Models**  
+Haoming Yang\*, Ali Hasan\*, Yuting Ng, Vahid Tarokh  
+*International Conference on Artificial Intelligence and Statistics (AISTATS)*, 2024  
+[[pdf]](https://arxiv.org/abs/2404.09402)  
 
 ## 2023  
 
-**Representation Learning for Extremes**
-Ali Hasan, Yuting Ng, Jose Blanchet, Vahid Tarokh
-*Conference on Neural Information Processing Systems: Workshop on Heavy Tails in ML*, 2023
-[[pdf]](https://openreview.net/pdf?id=RNGvkRELRI)
+**Representation Learning for Extremes**  
+Ali Hasan, Yuting Ng, Jose Blanchet, Vahid Tarokh  
+*Conference on Neural Information Processing Systems: Workshop on Heavy Tails in ML*, 2023  
+[[pdf]](https://openreview.net/pdf?id=RNGvkRELRI)  
 
 **Inference and Sampling of Point Processes from Diffusion Excursions**  
 Ali Hasan, Yu Chen, Yuting Ng, Mohamed Abdel‑Ghani, Anderson Schneider, Vahid Tarokh  
