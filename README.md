@@ -1,5 +1,5 @@
 # About Me
-Thank you for visiting this website. I am a final year PhD candidate at Duke University. My research focuses on bridging the gap between the computational aspects of deep learning and the theoretical properties of topics in applied mathematics such as stochastic processes, differential equations, and extreme value theory. I am interested in applying these methods to describe different phenomena in biomedical, environmental, and financial applications. If you are interested in discussing some of these topics in more detail, I would love to continue the conversation over email.  
+Thank you for visiting this website. I am a machine learning researcher at Morgan Stanley and research affiliate at Duke University. My research focuses on bridging the gap between the computational aspects of deep learning and the theoretical properties of topics in applied mathematics such as stochastic processes, differential equations, and extreme value theory. I am interested in applying these methods to describe different phenomena in biomedical, environmental, and financial applications. If you are interested in discussing some of these topics in more detail, I would love to continue the conversation over email.  
 
 ---
 
@@ -7,9 +7,15 @@ Thank you for visiting this website. I am a final year PhD candidate at Duke Uni
 
 ## 2024
 
+**Distributionally Robust Optimization as a Scalable Framework to Characterize Extreme Value Distributions**
+Patrick Kuiper\*, Ali Hasan\*, Wenhao Yang, Yuting Ng, Hoda Bidkhori, Jose Blanchet, Vahid Tarokh
+*Conference on Uncertainty in Artificial Intelligence (UAI)*, 2024  
+[[pdf]](https://arxiv.org/pdf/2408.00131.pdf) [[OpenReview]](https://openreview.net/forum?id=h28p1SR7Gw)
+
 **Base Models for Parabolic Partial Differential Equations**  
 Xingzi Xu\*, Ali Hasan\*, Jie Ding, Vahid Tarokh  
 *Conference on Uncertainty in Artificial Intelligence (UAI)*, 2024  
+[[pdf]](https://arxiv.org/pdf/2407.12234.pdf) [[OpenReview]](https://openreview.net/forum?id=TLYNkysFB3)
 
 **Neural McKean-Vlasov Processes: Distributional Dependence in Diffusion Models**  
 Haoming Yang\*, Ali Hasan\*, Yuting Ng, Vahid Tarokh  
