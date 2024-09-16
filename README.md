@@ -7,7 +7,7 @@ Thank you for visiting this website. I am a machine learning researcher at Morga
 
 ## 2024
 
-**Distributionally Robust Optimization as a Scalable Framework to Characterize Extreme Value Distributions**
+**Distributionally Robust Optimization as a Scalable Framework to Characterize Extreme Value Distributions**  
 Patrick Kuiper\*, Ali Hasan\*, Wenhao Yang, Yuting Ng, Hoda Bidkhori, Jose Blanchet, Vahid Tarokh
 *Conference on Uncertainty in Artificial Intelligence (UAI)*, 2024  
 [[pdf]](https://arxiv.org/pdf/2408.00131.pdf) [[OpenReview]](https://openreview.net/forum?id=h28p1SR7Gw)
