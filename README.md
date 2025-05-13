@@ -5,6 +5,26 @@ Thank you for visiting this website. I am a machine learning researcher at Morga
 
 # Publications
 
+## 2025
+
+**Elliptic Loss Regularization**  
+Ali Hasan\*, Haoming Yang\*, Yuting Ng, Vahid Tarokh  
+*International Conference on Learning Representations (ICLR)*, 2025  
+[[pdf]](https://arxiv.org/pdf/2503.02138) [[OpenReview]](https://openreview.net/forum?id=YwzxpZW3p7)
+
+**Off-policy Predictive Control with Causal Sensitivity Analysis**  
+Myrl G. Marmarelis, Ali Hasan, Kamyar Azizzadenesheli, R. Michael Alvarez, Anima Anandkumar  
+*Conference on Uncertainty in Artificial Intelligence (UAI)*, 2025  
+
+**Conditional Average Treatment Effect Estimation Under Hidden Confounders**  
+Ahmed Aloui, Juncheng Dong, Ali Hasan, Vahid Tarokh  
+*Conference on Uncertainty in Artificial Intelligence (UAI)*, 2025 
+
+**Parabolic Continual Learning**  
+Haoming Yang, Ali Hasan, Vahid Tarokh  
+*International Conference on Artificial Intelligence and Statistics (AISTATS)*, 2025  
+[[pdf]](https://arxiv.org/pdf/2503.02117)
+
 ## 2024
 
 **Distributionally Robust Optimization as a Scalable Framework to Characterize Extreme Value Distributions**  
